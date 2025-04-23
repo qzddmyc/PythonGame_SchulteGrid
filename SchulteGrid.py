@@ -251,19 +251,19 @@ screen = pygame.display.set_mode(size=(500, 500))
 
 # 图标及标题设定
 pygame.display.set_caption("Focus Training from qzddmyc", "yc")
-icon = pygame.image.load("yc_extrafile\game_icon.jpg")
+icon = pygame.image.load(r"yc_extrafile\game_icon.jpg")
 pygame.display.set_icon(icon)
 
 # 字体设置
-ycfont = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 30)
-ycfont_startbot = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 35)
-ycfont_surebot = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 40)
-ycfont_num = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 45)
-ycfont_tip = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 17)
-ycfont_big_num = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 60)
-ycfont_sma_num = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 25)
-ycfont_choice = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 22)
-ycfont_sta = pygame.font.Font("yc_extrafile\HYWenHei_85W.ttf", 10)
+ycfont = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 30)
+ycfont_startbot = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 35)
+ycfont_surebot = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 40)
+ycfont_num = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 45)
+ycfont_tip = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 17)
+ycfont_big_num = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 60)
+ycfont_sma_num = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 25)
+ycfont_choice = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 22)
+ycfont_sta = pygame.font.Font(r"yc_extrafile\HYWenHei_85W.ttf", 10)
 
 # 时间对象
 clock = pygame.time.Clock()
