@@ -10,5 +10,10 @@
 ### 注意
 - 需要将yc_extrafile与主程序放至同一目录下。其中，yc_extrafile中包含的是一份字体文件与一份游戏图标文件。
 
+### 更新摘要
+- 2025-04-23
+  - 对文件进行重新调整，使其在格式上基本符合PEP8规范
+  - 对部分算法进行了优化
+
 ### 声明
 - HYWenHei_85W.ttf文件来自[汉仪字库](https://www.hanyi.com.cn/productdetail.php?id=992&type=0)，仅作学习交流使用
