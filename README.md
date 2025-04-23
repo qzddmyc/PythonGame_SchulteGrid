@@ -18,6 +18,7 @@
 - 2025-04-23
   - 对代码进行重新调整，使其在格式上基本符合PEP8规范
   - 对部分算法进行了优化
+  - 修复了因存在无效转义序列而警告的问题
 
 ### 声明
 - HYWenHei_85W.ttf文件来自[汉仪字库](https://www.hanyi.com.cn/productdetail.php?id=992&type=0)，仅作学习交流使用
