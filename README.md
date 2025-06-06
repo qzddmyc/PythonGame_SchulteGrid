@@ -9,6 +9,7 @@
 
 ### 注意
 - 需要将yc_extrafile文件夹与主程序（SchulteGrid.py）放至同一目录下。其中，yc_extrafile中包含的是一份字体文件与一份游戏图标文件。
+- 该项目已发布可执行文件，[前往查看](https://github.com/qzddmyc/PythonGame_SchulteGrid/releases/tag/v1.0)。
 
 ### 更新摘要
 - 2024-05-31
@@ -17,6 +18,7 @@
   - 对代码进行重新调整，使其在格式上基本符合PEP-8规范
   - 对部分算法进行了优化
   - 修复了因存在无效转义序列而警告的问题
+  - v1.0版本发布
 
 ### 关于字体的声明
 - "HYWenHei_85W.ttf"字体文件来自[汉仪字库](https://www.hanyi.com.cn/productdetail.php?id=992&type=0)，在此仅作个人学习使用。
